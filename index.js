@@ -8,5 +8,5 @@ res.send ("Olá Ana")
 
 
 app.listen(3000, function(){
-    console.log ("Conexão inicializada")
+    console.log ("Conexão inicializada na porta 3000")
 })
